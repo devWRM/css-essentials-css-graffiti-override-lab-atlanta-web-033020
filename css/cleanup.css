@@ -19,7 +19,9 @@
 }
 
 
-
+div#wall #tag-3.slick {
+  opacity: 0;
+}
 
 
 
